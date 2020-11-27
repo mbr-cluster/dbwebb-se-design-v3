@@ -1,7 +1,7 @@
 Om mig
 ==========================
 
-![alt text](https://github.com/mbr-cluster/dbwebb-se-design-v3/blob/main/assets/img/me.png?raw=true)
+![](https://github.com/mbr-cluster/dbwebb-se-design-v3/blob/main/assets/img/me.png?raw=true =50x)
 
 Tjenare! Jag heter Gustaf Sundqvist och är en grabb på 19 år. Född och uppvuxen i Täby, Stockholm, i ett villa-område byggt 1980-talet. I höstas flyttade jag till mitt allra första boende i och med de påbörjande studierna hos BTH. 
 
