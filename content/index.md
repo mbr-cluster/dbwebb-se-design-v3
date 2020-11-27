@@ -1,13 +1,12 @@
----
-Title: Home
-Description: This is our index page.
----
-
-Home page
+Om mig
 ==========================
 
-The source for this page is in `content/index.md`.
+Tjenare! Jag heter Gustaf Sundqvist och är en grabb på 19 år. Född och uppvuxen i Täby, Stockholm, i ett villa-område byggt 1980-talet. I höstas flyttade jag till mitt allra första boende i och med de påbörjande studierna hos BTH. 
 
-This is a sample home page written in markdown with some frontmatter defined.
+Mitt intresse kring datorer och webben har varit med mig från en tidig ålder. Fick min allra första persondator vid 5-årsåldern, en beige box uppkopplad till en CRT-monitor. På den spelades en del webbaserad Flash-spel och olika typer av pointnclick-spel.
 
-The pages make up a Anax site for demonstration purpose, it is something to start from.
+Vid 12-årsålder började jag intressera mig kring programmering och FOSS-projekt som GNU/Linux. Det allra första språket som jag lekt runt i var Python och en bit Java.
+
+Utöver minna intressen inom datorer, gillar jag att kolla på film/tv-series, laga mat och umgås med vänner. 
+
+/Gustaf S.
