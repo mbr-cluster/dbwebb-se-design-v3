@@ -1,6 +1,9 @@
-Om mig
-==========================
+---
+Title: Hem
+---
 
+Om mig
+========
 <img src="https://github.com/mbr-cluster/dbwebb-se-design-v3/blob/main/assets/img/me.png?raw=true" alt="me" width="200"/>
 
 Tjenare! Jag heter Gustaf Sundqvist och är en grabb på 19 år. Född och uppvuxen i Täby, Stockholm, i ett villa-område byggt 1980-talet. I höstas flyttade jag till mitt allra första boende i och med de påbörjande studierna hos BTH. 
