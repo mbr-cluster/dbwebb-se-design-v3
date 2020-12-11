@@ -2,7 +2,7 @@
 Logo: image/logo.png
 Tagline: Under konstruktion...
 Social:
-    - title: Link till sidans github repo.
+    - title: Sidans github repo.
       url: https://github.com/mbr-cluster/dbwebb-se-design-v3
-      icon: github
+      icon: fab fa-github
 ---
